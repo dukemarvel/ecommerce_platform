@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'notifications',
     'inventory',
     'rest_framework',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
